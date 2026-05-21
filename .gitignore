@@ -2,3 +2,9 @@ backend/build/
 frontend/dist/
 frontend/node_modules/
 frontend/node_modules/.tmp/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.env
+*.log
